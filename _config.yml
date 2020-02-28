@@ -1,6 +1,6 @@
 title:              "Intelligence artificielle : Art et Création"
 email:              ravi.hassanaly@ecl16.ec-lyon.fr
-description:        "Synthèse de la veille technologique réaliser dans la cadre du cours Nouvelle Teechnologie de l'Information et de la Communication à l'Ecole Centrale Lyon"
+description:        "Synthèse de la veille technologique réaliser dans la cadre du cours Nouvelles Technologies de l'Information et de la Communication à l'Ecole Centrale Lyon"
 author:             Ravi Hassanaly
 baseurl:            "/vtecl"
 url:                "https://ravih18.github.io"
@@ -9,7 +9,7 @@ url:                "https://ravih18.github.io"
 twitter_username:   "@HassanalyRavi"
 github_username:    ravih18
 facebook_username:  ""
-linkedin_username:  "https://www.linkedin.com/in/rhassana/"
+linkedin_username:  "rhassana"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
