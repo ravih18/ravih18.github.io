@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/vtecl/2020/02/29/introduction.html</loc>
+<lastmod>2020-02-29T13:27:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/vtecl/2020/02/29/part1.html</loc>
+<lastmod>2020-02-29T13:32:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/vtecl/2020/02/29/part2.html</loc>
+<lastmod>2020-02-29T13:33:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/vtecl/old_files/2017-10-26-dinosaurs.html</loc>
 </url>
 <url>
