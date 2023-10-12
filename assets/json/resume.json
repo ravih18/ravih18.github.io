@@ -40,6 +40,16 @@
       "highlights": [
         "Deep learning", "Generative models", "Medical Imaging", "Neuroimaging"
       ]
+    },
+    {
+      "name": "Upfluence",
+      "position": "Data Science Internship",
+      "startDate": "2019-02-01",
+      "endDate": "2019-08-30",
+      "summary": "Data science of social media data for influencers marketing.",
+      "highlights": [
+        "NLP", "Social Media", "Influencer classification"
+      ]
     }
   ],
   "volunteer": [
@@ -71,16 +81,35 @@
       "endDate": "2020-08-31",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Deep Learning",
+        "Mathematics",
+        "Statistics",
+        "Computer Vision",
+        "Signal Processing",
+        "Control System",
+        "Electronics",
+        "Network engineering"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Runner-up best poster Award at SPIE Medical Imaging international conference",
+      "date": "2023-02-22",
+      "awarder": "SPIE",
+      "summary": ""
+    },
+    {
+      "title": "Originaly Price at the Paris Brain Institute poster contest",
+      "date": "2023-06-28",
+      "awarder": "Ajité",
+      "summary": ""
+    },
+    {
+      "title": "Runner-up best student project (Prix Francis Leboeuf",
+      "date": "2017-09-08",
+      "awarder": "Ecole Centrale de Lyon",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -88,7 +117,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
