@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Abstract:
+**Abstract**:
 
 The use of deep generative models for unsupervised anomaly
 detection is an area of research that has gained interest in recent years in
@@ -27,4 +27,4 @@ applications can generalize to the unsupervised detection of anomalies
 of various shapes, intensities and locations in 3D FDG PET. However,
 these models do not outperform the vanilla autoencoder and VAE.
 
-Paper Link : https://hal.science/hal-04185304/file/DGM4MICCAI_Hassanaly.pdf
+[Paper Link](https://hal.science/hal-04185304/file/DGM4MICCAI_Hassanaly.pdf)
