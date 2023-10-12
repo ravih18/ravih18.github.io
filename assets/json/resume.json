@@ -71,18 +71,6 @@
       "endDate": "2020-08-31",
       "score": "",
       "courses": [
-        "Theory of Relativity"
-      ]
-    },
-    {
-      "institution": "Université Claude Bernard, Lyon, France",
-      "url": "https://www.univ-lyon1.fr/",
-      "area": "Data Science",
-      "studyType": "Master",
-      "startDate": "2019-09-01",
-      "endDate": "2020-08-31",
-      "score": "",
-      "courses": [
         "Deep Learning",
         "Mathematics",
         "Statistics",
@@ -91,6 +79,18 @@
         "Control System",
         "Electronics",
         "Network engineering"
+      ]
+    },
+    {
+      "institution": "Université Claude Bernard, Lyon, France",
+      "url": "https://www.univ-lyon1.fr/",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2019-09-01",
+      "endDate": "2020-08-30",
+      "score": "",
+      "courses": [
+        "Data Science", "Machine Learning", "Probabilistic Graphical Models"
       ]
     }
   ],
@@ -116,7 +116,20 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "Medical Imaging",
+    "SLURM / HPC",
+    "CUDA",
+    "Git / DVC"
+  ],
+  "programing skills": [
+    {
+      "language": "Python",
+      "level": "Good Level"
+    }
+  ],
   "languages": [
     {
       "language": "French",
