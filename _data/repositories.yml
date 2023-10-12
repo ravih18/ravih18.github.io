@@ -4,8 +4,8 @@ github_users:
 github_repos:
   - aramis-lab/clinicadl
   - aramis-lab/clinica
-  - VAE-models-for-UAD
+  - ravih18/VAE-models-for-UAD
   - aramis-lab/DL4MI
-  - image_synthesis
+  - ravih18/image_synthesis
   - clementchadebec/benchmark_VAE
-  - vtecl
+  - ravih18/vtecl
