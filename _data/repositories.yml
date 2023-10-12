@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ravih18
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aramis-lab/clinicadl
+  - aramis-lab/clinica
+  - VAE-models-for-UAD
+  - aramis-lab/DL4MI
+  - image_synthesis
+  - clementchadebec/benchmark_VAE
+  - vtecl
