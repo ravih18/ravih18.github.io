@@ -118,12 +118,14 @@
   "certificates": [],
   "publications": [],
   "skills": [
-    "Deep Learning",
-    "Machine Learning",
-    "Medical Imaging",
-    "SLURM / HPC",
-    "CUDA",
-    "Git / DVC"
+    {"Python": ""},
+    {"Deep Learning": ""},
+    {"Machine Learning": ""},
+    {"Medical Imaging": ""},
+    {"Linux": ""},
+    {"SLURM / HPC": ""},
+    {"CUDA": ""},
+    {"Git / DVC": ""}
   ],
   "programing skills": [
     {
