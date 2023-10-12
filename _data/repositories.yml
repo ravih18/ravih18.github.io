@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - aramis-lab/clinicadl
   - aramis-lab/clinica
+  - aramis-lab/clinicadl-pythae
   - ravih18/VAE-models-for-UAD
   - aramis-lab/DL4MI
   - ravih18/image_synthesis
