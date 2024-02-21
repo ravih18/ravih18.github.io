@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://www.aramislab.fr/>Aramis Lab</a>. Paris. rhassana96@gmail.com
+subtitle: <a href=https://www.aramislab.fr/>Aramis Lab</a>. Paris Brain Institute. rhassana96@gmail.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Paris Brain Institute</p>
-    <p>Hopital de la Pitié-Salpêtrière</p>
-    <p>Paris, France</p>
+  #more_info: >
+  #  <p>Paris Brain Institute</p>
+  #  <p>Hopital de la Pitié-Salpêtrière</p>
+  #  <p>Paris, France</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
