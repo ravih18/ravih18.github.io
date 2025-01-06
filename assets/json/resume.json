@@ -116,7 +116,7 @@
       "courses": [
         "Data Science", "Machine Learning", "Probabilistic Graphical Models"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -141,7 +141,7 @@
   "certificates": [],
   "publications": [],
   "skills": [
-    {"Python": ""},
+    {"Python": "Expert"},
     {"Deep Learning": ""},
     {"Machine Learning": ""},
     {"Medical Imaging": ""},
@@ -153,7 +153,7 @@
   "programing skills": [
     {
       "language": "Python",
-      "level": "Good Level"
+      "level": "Expert"
     }
   ],
   "languages": [
