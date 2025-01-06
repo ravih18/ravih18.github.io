@@ -19,10 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral candidate at Aramis Lab in the Paris Brain Institute under the supervision of Ninon Burgos and Olivier Colliot. My main topic of research is the use of deep learning methods for medical imaging computing. More specifically I work with deep generative models for anomaly detection on neuroimages.
+I am a postdoctoral researcher at the Paris Brain Institute, currently working in the ARAMIS Lab under the supervision of Ninon Burgos and Olivier Colliot. My research focuses on developing and applying deep learning generative methods for medical imaging, with a specific interest in diffusion models for anomaly detection in neuroimaging.
 
-My research focus on methodological development of generative models and anomaly detection technics as well as their clinical applications. I am also strongly implicated in open source projects.
+I combine methodological innovation in generative models and anomaly detection techniques with a strong focus on clinical applications, aiming to improve diagnostic tools and patient outcomes in the case neurodegenerative disease. I'm also an active contributor to open-source projects, further advancing the field of medical AI.
 
-Graduated from Ecole Centrale de Lyon and Université de Lyon 1 in 2020, I have a computer science background. My expected PhD graduation time at Sorbonne University is Spring 2024.
+I earned my PhD in computer science from Sorbonne University in April 2024, and I hold an engineering degree from Ecole Centrale de Lyon and a master in data science from Université de Lyon 1.
 
-I also love kicking balls (aka playing soccer) and riding bikes !
+When I’m not working on AI or medical imaging, you’ll often find me playing soccer or riding my gravel bike!
