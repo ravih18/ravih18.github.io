@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ravi Hassanaly",
-    "label": "Doctoral candidate",
+    "label": "Postdoctoral Researcher",
     "image": "",
     "email": "rhassana96@gmail.com",
     "url": "https://ravih18.github.io/",
-    "summary": "Doctoral Candidate at Aramis Lab, working on deep generative models for anomaly detection on medical imaging.",
+    "summary": "Postdoctoral Researcher at Aramis Lab, working on deep generative models for anomaly detection on medical imaging.",
     "location": {
       "address": "43 boulevard de l'Hopital",
       "postalCode": "75013",
@@ -32,13 +32,23 @@
   },
   "work": [
     {
-      "name": "Paris Brain Institute - CNRS - Sorbonne Univerty",
+      "name": "Paris Brain Institute, ARAMIS Lab - CNRS",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2024-09-01",
+      "endDate": "2025-03-31",
+      "summary": "Developping new approaches combining diffusion models and optimal transport for medical image data generation.",
+      "highlights": [
+        "Deep learning", "Generative models", "Diffusion Models", "Medical Imaging", "Neuroimaging"
+      ]
+    },
+    {
+      "name": "Paris Brain Institute, ARAMIS Lab - CNRS - Sorbonne Université",
       "position": "Doctoral Candidate",
       "startDate": "2020-11-01",
       "endDate": "2024-04-30",
       "summary": "Working with deep learning generative models for unsupervised anomaly detection of brain images.",
       "highlights": [
-        "Deep learning", "Generative models", "Medical Imaging", "Neuroimaging"
+        "Deep learning", "Generative models", "Variational Autoencoders", "Medical Imaging", "Neuroimaging"
       ]
     },
     {
@@ -58,33 +68,34 @@
       "organization": "Ajité young researcher association",
       "url": "https://www.ajites.fr/",
       "startDate": "2023-01-01",
-      "endDate": "2024-04-31",
+      "endDate": "2025-03-30",
       "summary": "Organizing young researcher life at the Paris Brain Institute."
     }
   ],
   "education": [
     {
-      "institution": "Lyon, France",
-      "url": "https://www.univ-lyon1.fr/",
-      "area": "Data Science",
-      "studyType": "Master at Université Claude Bernard",
+      "institution": "Sorbonne Université, Paris, France",
+      "url": "",
+      "area": "Thesis title: Pseudo-healthy image reconstruction with deep generative models for the detection of dementia-related anomalies",
+      "studyType": "Ph.D. in Computer Science",
       "startDate": "2019-09-01",
       "endDate": "2020-08-30",
       "score": "",
       "courses": [
-        "Data Science", "Machine Learning", "Probabilistic Graphical Models"
+        "Deep learning", "Generative Models", "Medical Imaging"
       ]
     },
     {
-      "institution": "Lyon, France",
+      "institution": "Ecole Centrale de Lyon, Lyon, France",
       "url": "https://www.ec-lyon.fr/",
       "area": "Engineering and Computer Science",
-      "studyType": "Engineering at Ecole Centrale de Lyon",
+      "studyType": "Engineering Degree",
       "startDate": "2016-09-01",
       "endDate": "2020-08-31",
       "score": "",
       "courses": [
         "Deep Learning",
+        "Computer Science",
         "Mathematics",
         "Statistics",
         "Computer Vision",
@@ -93,7 +104,19 @@
         "Electronics",
         "Network engineering"
       ]
-    }
+    },
+    {
+      "institution": "Université Claude-Bernard, Lyon, France",
+      "url": "https://www.univ-lyon1.fr/",
+      "area": "Data Science",
+      "studyType": "Master Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2020-08-30",
+      "score": "",
+      "courses": [
+        "Data Science", "Machine Learning", "Probabilistic Graphical Models"
+      ]
+    },
   ],
   "awards": [
     {
@@ -103,13 +126,13 @@
       "summary": ""
     },
     {
-      "title": "Originaly Price at the Paris Brain Institute poster contest",
+      "title": "Originality Price at the Paris Brain Institute poster contest",
       "date": "2023-06-28",
       "awarder": "Ajité",
       "summary": ""
     },
     {
-      "title": "Runner-up best student project (Prix Francis Leboeuf",
+      "title": "Runner-up best student project (Prix Francis Leboeuf)",
       "date": "2017-09-08",
       "awarder": "Ecole Centrale de Lyon",
       "summary": ""
