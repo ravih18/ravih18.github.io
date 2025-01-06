@@ -62,24 +62,14 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "position": "",
-      "organization": "Ajité young researcher association",
-      "url": "https://www.ajites.fr/",
-      "startDate": "2023-01-01",
-      "endDate": "2025-03-30",
-      "summary": "Organizing young researcher life at the Paris Brain Institute."
-    }
-  ],
   "education": [
     {
       "institution": "Sorbonne Université, Paris, France",
-      "url": "",
+      "url": "https://sciences.sorbonne-universite.fr/en",
       "area": "Thesis title: Pseudo-healthy image reconstruction with deep generative models for the detection of dementia-related anomalies",
       "studyType": "Ph.D. in Computer Science",
-      "startDate": "2019-09-01",
-      "endDate": "2020-08-30",
+      "startDate": "2020-11-01",
+      "endDate": "2024-04-30",
       "score": "",
       "courses": [
         "Deep learning", "Generative Models", "Medical Imaging"
@@ -91,7 +81,7 @@
       "area": "Engineering and Computer Science",
       "studyType": "Engineering Degree",
       "startDate": "2016-09-01",
-      "endDate": "2020-08-31",
+      "endDate": "2020-09-31",
       "score": "",
       "courses": [
         "Deep Learning",
@@ -136,6 +126,16 @@
       "date": "2017-09-08",
       "awarder": "Ecole Centrale de Lyon",
       "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "position": "",
+      "organization": "Ajité young researcher association",
+      "url": "https://www.ajites.fr/",
+      "startDate": "2023-01-01",
+      "endDate": "2025-03-30",
+      "summary": "Organizing young researcher life at the Paris Brain Institute."
     }
   ],
   "certificates": [],
